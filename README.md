@@ -20,8 +20,8 @@ Before you begin, ensure you have met the following requirements:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-project-name.git
-   cd your-project-name
+   git clone https://github.com/husin-sajjadi/file-microservice-graphql.git
+   cd file-microservice-graphql
 
 2. Install the dependencies:
    ```bash
